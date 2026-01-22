@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/simple-calculator-app-309921-309930/calculator_frontend/.dart_tool/flutter_build/ad7d2484199bb7d9046a21b1eb176e80/native_assets.json: 
